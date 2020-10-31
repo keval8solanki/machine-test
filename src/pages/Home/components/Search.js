@@ -23,7 +23,7 @@ const SearchContainer = styled.div`
     top: 0;
     background-color: white;
     box-shadow: 1px 1px 1px 1px solid;
-
+    z-index: 100;
 `
 
 const SearchInput = styled.input`
