@@ -22,7 +22,6 @@ const SearchContainer = styled.div`
     position: sticky;
     top: 0;
     background-color: white;
-    box-shadow: 1px 1px 1px 1px solid;
     z-index: 100;
 `
 
