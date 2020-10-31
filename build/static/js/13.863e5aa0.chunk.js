@@ -1,0 +1,2 @@
+(this["webpackJsonpmachine-test"]=this["webpackJsonpmachine-test"]||[]).push([[13],{66:function(t,s,e){"use strict";e.r(s),s.default=e.p+"static/media/1906776.51892872.jpg"}}]);
+//# sourceMappingURL=13.863e5aa0.chunk.js.map
